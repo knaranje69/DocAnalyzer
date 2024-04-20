@@ -1,0 +1,8 @@
+Flask
+os
+openai
+pytesseract
+PyPDF2
+IO
+fitz
+PyMuPDF
